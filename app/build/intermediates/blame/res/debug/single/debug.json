@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_popular_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-ldpi/ic_popular_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_trending_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-ldpi/ic_trending_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/navigation_movies_navigation.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/navigation/movies_navigation.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_base_activity.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/base_activity.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_upcoming_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-ldpi/ic_upcoming_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_popular_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-hdpi/ic_popular_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_movie_list_item.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/movie_list_item.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_upcoming_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_upcoming_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_upcoming_movie.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_upcoming_movie.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_popular_movies.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/popular_movies.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_popular_movie_detail_activity.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/popular_movie_detail_activity.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_popular_movie.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_popular_movie.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_popular_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_popular_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_tv_list_item.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/tv_list_item.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_trending_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-hdpi/ic_trending_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_upcoming_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_upcoming_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_popular_movie_details.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/popular_movie_details.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_trending_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_trending_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_upcoming_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-mdpi/ic_upcoming_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_trending_movie.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_trending_movie.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_people_list_item.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/people_list_item.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_upcoming_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_upcoming_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_network_state_item.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/network_state_item.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_popular_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_popular_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_popular_tv.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/popular_tv.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_trending_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_trending_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_upcoming_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-hdpi/ic_upcoming_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_trending_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_trending_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_popular_people_detail.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/popular_people_detail.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_popular_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-mdpi/ic_popular_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_trending_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-mdpi/ic_trending_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_popular_tv_detail.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/popular_tv_detail.xml"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_popular_movie.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_popular_movie.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/drawable_poster_placeholder.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/drawable/poster_placeholder.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/res/merged/debug/layout_popular_people.xml.flat",
+        "source": "/home/ajax/Desktop/android_projects/ShowFlix/app/src/main/res/layout/popular_people.xml"
+    }
+]

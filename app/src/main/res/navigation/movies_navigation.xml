@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/movies_navigation"
+    app:startDestination="@id/popularMoviesFragment"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/popularMoviesFragment"
+        android:name="com.app.showflix.view.fragments.movies.PopularMoviesFragment"
+        android:label="Popular Movies"
+        tools:layout="@layout/popular_movies">
+    </fragment>
+
+   <!-- <fragment
+        android:id="@+id/popularMovieDetailFragment"
+        android:name="com.app.showflix.view.fragments.movies.PopularMovieDetailFragment"
+        android:label="Movie Detail"
+        tools:layout="@layout/popular_movie_details">
+    </fragment>-->
+
+    <fragment
+        android:id="@+id/popularTvFragment"
+        android:name="com.app.showflix.view.fragments.tv.PopularTvFragment"
+        android:label="Popular TVs Shows"
+        tools:layout="@layout/popular_tv" />
+
+    <fragment
+        android:id="@+id/popularPeopleFragment"
+        android:name="com.app.showflix.view.fragments.people.PopularPeopleFragment"
+        android:label="Popular People "
+        tools:layout="@layout/popular_people" />
+
+
+</navigation>

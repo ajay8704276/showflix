@@ -1,0 +1,4 @@
+#Sun Oct 13 18:37:46 IST 2019
+base.0=/home/ajax/Desktop/android_projects/ShowFlix/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
